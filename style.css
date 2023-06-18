@@ -1,0 +1,117 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+.img1{
+    height:500px;
+    width:100%;
+    background-image:url("sunset1.jpg");
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.stext{
+    display: flex;
+    justify-content:center;
+    padding-top:210px;
+    text-transform:uppercase;
+    letter-spacing: 8px;
+    color:white;
+}
+.textbg{
+    font-size:30px;
+    font-family:'lato'sans-serif;
+    background-color:#AF3C7D;
+    height:80px;
+    width:400px;
+    text-align:center;  
+    padding:20px 0px;
+    border-radius:20px;
+}
+.textbg:hover{
+    border-radius: 30px;
+}
+.section{
+    background-color:#FB8486;
+    height:300px;
+    width:100%;   
+    padding:50px 80px;
+    color:white;
+}
+.section p{
+    padding-top:30px;
+    text-align:center;
+    font-weight:500;
+    letter-spacing: 1px;
+
+}
+h1{
+    text-transform:uppercase;
+    text-align:center;
+    font-size:30px;
+}
+.img2{
+    height:300px;
+    width:100%;
+    background-image:url("sunset2.jpg");
+    background-size:cover;
+    background-position: center;
+}
+.stext2{
+    display: flex;
+    justify-content: center;
+    padding-top:130px;
+    text-transform:uppercase;
+    letter-spacing:8px;
+    color:white;
+}
+.textbg2{
+    font-size:25px;
+    font-weight:500;
+    background-color:#AF3C7D;
+    height:80px;
+    width:500px;
+    text-align:center;
+    padding-top: 23px;
+    border-radius:20px;
+}
+.section-dark{
+    background-color: #AF3C7D;
+}
+.img3{
+    height:300px;
+    width:100%;
+    background-image:url("sunset3.jpg");
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+.stext3{
+    display: flex;
+    justify-content: center;
+    padding-top:130px;
+    text-transform:uppercase;
+    letter-spacing:8px;
+    color:white;
+}
+.textbg3{
+    font-size:25px;
+    font-weight:500;
+    background-color:#AF3C7D;
+    height:80px;
+    width:500px;
+    text-align:center;
+    padding-top: 23px;
+    border-radius:20px;
+}
+.textbg4{
+    font-size:25px;
+    font-weight:500;
+    background-color:#AF3C7D;
+    height:80px;
+    width:500px;
+    text-align:center;
+    padding-top:10px;
+    border-radius:20px;
+}

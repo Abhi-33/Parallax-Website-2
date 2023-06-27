@@ -115,3 +115,14 @@ h1{
     padding-top:10px;
     border-radius:20px;
 }
+footer{
+    height:30px;
+    width:100%;
+    background-color:#AF3C7D;
+}
+.text{
+    font-size:25px;
+    text-transform: uppercase;
+    text-align:center;
+    color:white;
+}
